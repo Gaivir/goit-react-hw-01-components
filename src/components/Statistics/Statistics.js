@@ -26,7 +26,7 @@ const Statistics = ({ title, stats }) => {
 }
 
 Statistics.defaultProps = {
-    title: 'Stats',
+    title: '',
 }
 
 
